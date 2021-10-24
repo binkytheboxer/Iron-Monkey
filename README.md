@@ -8,7 +8,7 @@ Fixed a easy bug
 Made it easier to control
 # Outdated 2.1.0
 Fixed for the lastest update
-# New mod
+# Outdated 2.1.1
 Fixed the controls
 Fixed for the lastest update
 Will say is outdated but its not
